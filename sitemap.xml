@@ -8,6 +8,10 @@
   </url>
   
   <url>
+    <loc>https://blog.enyutech.net/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://blog.enyutech.net/categories/</loc>
     <priority>0</priority>
   </url>
@@ -21,7 +25,6 @@
   <url>
     <loc>https://blog.enyutech.net/posts/</loc>
     <lastmod>2019-01-12T20:56:04-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
